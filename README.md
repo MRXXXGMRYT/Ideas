@@ -1,3 +1,3 @@
 # Ideas
-give me your ideas through issues
-everything's help, even silly ones.
+<p>Give me your ideas through issues.</p>
+<p>Everything's help, even silly ones. <3</p>
